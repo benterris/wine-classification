@@ -1,2 +1,5 @@
 datasets/
 testfile
+environment/
+.DS_Store
+.ipynb_checkpoints/
