@@ -4,3 +4,5 @@ testfile
 environment/
 .DS_Store
 .ipynb_checkpoints/
+wine-prediction-model.pt
+.vector_cache
