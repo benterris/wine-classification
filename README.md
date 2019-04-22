@@ -1,14 +1,10 @@
 # Wine Classification project
 
-Deep learning class @ CentraleSupélec  
-Student project  
-Pierre Mevel - Benjamin Terris
+Pytorch implementation of a CNN to classify wines from reviews about them.
 
 ## Checkout the notebook
 
 Here you can find [the notebook with our results](https://github.com/benterris/wine-classification/blob/master/wine-classification-project.ipynb).
 
-## Setup
-
-Put your datasets in a folder called `datasets` in the project root
-
+_Deep learning class @ CentraleSupélec_
+_Pierre Mevel - Benjamin Terris_
